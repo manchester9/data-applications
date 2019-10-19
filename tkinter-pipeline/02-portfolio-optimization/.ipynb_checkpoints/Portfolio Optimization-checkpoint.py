@@ -7,15 +7,16 @@
 ################################################################################
 import matplotlib.pyplot as plt
 import pandas as pd
-import pandas.io.data as web
+# from pandas_datareader import web, data
 import numpy as np
 import scipy.optimize as sco
+import pandas_datareader as pdr
 
 def getStockQuotes(symbols, source, startDate, endDate):
     quotes = pd.DataFrame()
     
     for symbol in symbols:
-        quotes[symbol] = web.DataReader(symbol, data_source=source, start=startDate, end=endDate)['Adj Close']
+        quotes[symbol] = pdr.get_data_fred(symbol, data_source=source, start=startDate, end=endDate)['Adj Close']
         
     return quotes
     
