@@ -1,5 +1,6 @@
 from nltk.book import *
-import nltk 
+import nltk
+import re, nltk, pprint  
 
 print('\n')
 print('printing corpus location')
