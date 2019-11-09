@@ -144,7 +144,8 @@ def generate_ngrams(text, n):
 
 generate_ngrams('this is a sample text', 2)
 
-
+generate_bigrams('Need to input performance framework into the main section')
+generate_ngrams('Need to put in text for conversational AI')
 
 
 
