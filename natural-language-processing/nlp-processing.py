@@ -13,7 +13,7 @@ print('\n')
 text3.generate()
 text3.count('smote')
 
-# generating text1 data 
+# generating text1 data
 print('\n')
 text1.concordance('monstrous')
 print('processing frequency distribution')
@@ -28,7 +28,7 @@ print('\n')
 sorted(long_words)
 print(long_words)
 
-# preprocessing data 
+# preprocessing data
 print('\n')
 print('bigrams processing')
 print(bigrams(['more', 'is', 'said', 'than', 'done']))
@@ -102,13 +102,11 @@ def _lookup_words(input_text):
 _lookup_words("RT this is a retweeted tweet by Shivam Bansal")
 # >> "Retweet this is a retweeted tweet by Shivam Bansal"
 
-
 # text to feature parsing 
 from nltk import word_tokenize, pos_tag
 text = "I am learning Natural Language Processing on Analytics Vidhya"
 tokens = word_tokenize(text)
 print(pos_tag(tokens))
-
 
 # topic modeling
 doc1 = "Sugar is bad to consume. My sister likes to have sugar, but not my father." 
@@ -144,9 +142,9 @@ def generate_ngrams(text, n):
 
 generate_ngrams('this is a sample text', 2)
 
-generate_bigrams('Need to input performance framework into the main section')
+generate_ngrams('Need to input performance framework into the main section')
 generate_ngrams('Need to put in text for conversational AI')
-
+generate_ngrams('Need to get into the healthcare space for AI')
 
 
 
