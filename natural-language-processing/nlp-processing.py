@@ -147,18 +147,20 @@ generate_ngrams('Need to put in text for conversational AI')
 generate_ngrams('Need to get into the healthcare space for AI')
 
 
-def parsing_content():
-    pass 
-
 def parsing_strings():
     pass 
 
-def bigrams():
-    pass 
 
 def tokenization():
     pass 
 
+
+def bigrams():
+    pass 
+
+
+def trigrams():
+    pass  
 
 
 
