@@ -163,6 +163,14 @@ def trigrams():
     pass  
 
 
+def entity_resolution():
+    pass 
+
+@staticmethod
+def funcname(parameter_list):
+    pass
+
+
 
 
 
