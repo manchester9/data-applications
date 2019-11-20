@@ -159,6 +159,10 @@ def bigrams():
     pass 
 
 
+def named_entity_recognition():
+    pass 
+
+
 def trigrams():
     pass  
 
