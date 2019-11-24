@@ -167,6 +167,10 @@ def trigrams():
     pass  
 
 
+def pass_values():
+    pass 
+
+
 def named_entity_resolution():
     pass 
 
