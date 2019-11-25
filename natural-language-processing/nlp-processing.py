@@ -154,7 +154,15 @@ def parsing_strings():
 def tokenization():
     pass 
 
+def lemmatization():
+    pass
+
+
 def stemmatization():
+    pass 
+
+
+def stopwords():
     pass 
 
 
@@ -162,36 +170,26 @@ def bigrams():
     pass 
 
 
-def named_entity_recognition():
-    pass 
-
-
 def trigrams():
     pass  
 
 
-def pass_values():
+def named_entity_recognition():
     pass 
-
-
-def named_entity_resolution():
-    pass 
-
-@staticmethod
-def funcname(parameter_list):
-    pass
 
 
 def wordcloud():
     pass 
 
 
-def lemmatization():
+@staticmethod
+def funcname(parameter_list):
     pass
 
 
-def stemmatization():
-    pass 
+
+
+
 
 
 
