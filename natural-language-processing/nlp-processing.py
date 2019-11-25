@@ -154,6 +154,9 @@ def parsing_strings():
 def tokenization():
     pass 
 
+def stemmatization():
+    pass 
+
 
 def bigrams():
     pass 
