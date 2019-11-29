@@ -89,6 +89,10 @@ def normalization():
     pass 
 
 
+def standardization():
+    pass 
+
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
