@@ -80,6 +80,15 @@ def dummy_variables():
 def encoding_variables():
     pass 
 
+
+def scaling():
+    pass 
+
+
+def normalization():
+    pass 
+
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
