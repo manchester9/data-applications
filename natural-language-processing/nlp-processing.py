@@ -73,6 +73,12 @@ regex_pattern = "#[\w]*"
 
 _remove_regex("remove this #hashtag from analytics vidhya", regex_pattern)
 
+def dummy_variables():
+    pass 
+
+
+def encoding_variables():
+    pass 
 
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
