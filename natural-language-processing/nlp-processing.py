@@ -204,6 +204,9 @@ def wordcloud():
 def create_dashboard():
     pass 
 
+def serve_dashboard():
+    pass 
+
 
 @staticmethod
 def funcname(parameter_list):
