@@ -216,6 +216,11 @@ def deploy_on_aws():
 def monitor_on_aws():
     pass 
 
+
+def logging_of_data():
+    pass 
+
+
 @staticmethod
 def funcname(parameter_list):
     pass
