@@ -226,6 +226,8 @@ def corrections():
 def pass_lambda_functions():
     pass 
 
+def reboot_server():
+    pass 
 
 @staticmethod
 def funcname(parameter_list):
