@@ -220,13 +220,20 @@ def monitor_on_aws():
 def logging_of_data():
     pass 
 
+
 def corrections():
     pass 
+
 
 def pass_lambda_functions():
     pass 
 
+
 def reboot_server():
+    pass 
+
+
+def monitoring_pipeline():
     pass 
 
 @staticmethod
