@@ -224,6 +224,8 @@ def logging_of_data():
 def parse_logs():
     pass 
 
+def control_output():
+    pass 
 
 def pass_lambda_functions():
     pass 
