@@ -232,14 +232,18 @@ def pass_lambda_functions():
 
 
 def reboot_server():
+    """Infrastructure as code"""
     pass 
 
 
 def monitoring_pipeline():
+    """Monitoring pipeline via airflow"""
     pass 
+
 
 def use_airflow_module():
     pass 
+
 
 @staticmethod
 def funcname(parameter_list):
