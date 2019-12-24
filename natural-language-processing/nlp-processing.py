@@ -96,6 +96,10 @@ def standardization():
 def binarize():
     pass 
 
+
+def one_hot_encoding():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
