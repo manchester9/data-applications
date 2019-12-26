@@ -100,6 +100,10 @@ def binarize():
 def one_hot_encoding():
     pass 
 
+
+def transformations():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
