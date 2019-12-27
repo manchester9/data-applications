@@ -104,6 +104,10 @@ def one_hot_encoding():
 def transformations():
     pass 
 
+
+def trigrams():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
