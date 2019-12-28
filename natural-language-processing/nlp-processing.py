@@ -108,6 +108,10 @@ def transformations():
 def trigrams():
     pass 
 
+
+def bigrams():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
