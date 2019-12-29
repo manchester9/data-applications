@@ -112,6 +112,10 @@ def trigrams():
 def bigrams():
     pass 
 
+
+def integrate():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
