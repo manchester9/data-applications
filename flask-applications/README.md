@@ -6,7 +6,7 @@
 
 <!-- </body> -->
 
-![Python](images/python-3.6.svg) ![Build Status](images/build-passing.svg) ![Dependecies](images/dependencies.svg) ![Contributions Welcome](images/contributions-welcome.svg) ![MIT license](images/mit-license.svg)
+![Python](images/python-3.6.svg) ![Build Status](images/build-passing.png) ![Dependecies](images/dependencies.svg) ![Contributions Welcome](images/contributions-welcome.svg) ![MIT license](images/mit-license.svg)
 
 
 ## **Overview**
