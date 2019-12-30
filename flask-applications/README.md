@@ -4,6 +4,7 @@
 
 ## For easy perusal below are the links to all the Flask applications
 * [Creating-hello-world](flask-hello-world)
+* [Creating-a-progress-bar](flask-progress-bar)
 * [Creating-a-flask-form](flask-form)
 * [Creating-a-flask-bootstrap-table](flask-bootstrap-table)
 * [Extracting-data-from-database](flask-extract-sqlite-db-data)
