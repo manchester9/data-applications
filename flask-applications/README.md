@@ -14,7 +14,8 @@ Output:
 <!-- <body style="background-color:powderblue;"> -->
 <!-- .markdown-preview.markdown-preview  -->
 <!-- { -->
-<p align="center" style="color:DodgerBlue; font-family:cambria; font-size:30px">FLASK APPLICATIONS</p>
+<p align="center" style="color:DodgerBlue; font-family:cambria; font-size:30pt">FLASK APPLICATIONS
+</p>
 <!-- } -->
 <!-- </body> -->
 
