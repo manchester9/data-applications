@@ -1,12 +1,12 @@
 ---
-title: Flask Applications
-author: Roland Ferrao
-date: December 30, 2019
-output: 
+Title: Flask Applications
+Author: Roland Ferrao
+Date: December 30, 2019
+Output: 
     html_document:
     css: styles.css
-    theme: null
-    highight: null
+    # theme: null
+    # higlight: null
 ---
 
 <p align="center"><img width=20% src="images/flask-logo.png"></p>
