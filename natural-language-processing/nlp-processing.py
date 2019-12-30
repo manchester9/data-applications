@@ -117,7 +117,7 @@ def integrate():
     pass 
 
 def monitor_pipeline():
-    pass 
+    pass
 
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
