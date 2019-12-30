@@ -1,3 +1,14 @@
+---
+title: Flask Applications
+author: Roland Ferrao
+date: December 30, 2019
+output: 
+    html_document:
+    css: styles.css
+    theme: null
+    highight: null
+---
+
 <p align="center"><img width=20% src="images/flask-logo.png"></p>
 
 <!-- <body style="background-color:powderblue;"> -->
@@ -7,7 +18,7 @@
 <!-- } -->
 <!-- </body> -->
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 5em;">INSPIRATION DAY</span>
+<!-- <span style="color: #f2cf4a; font-family: Babas; font-size: 5em;">INSPIRATION DAY</span> -->
 
 
 
