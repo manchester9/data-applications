@@ -116,6 +116,9 @@ def bigrams():
 def integrate():
     pass 
 
+def monitor_pipeline():
+    pass 
+
 # stem and lemmatization
 from nltk.stem.wordnet import WordNetLemmatizer 
 lem = WordNetLemmatizer()
