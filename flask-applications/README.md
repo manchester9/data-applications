@@ -6,7 +6,7 @@
 
 <!-- </body> -->
 
-![Python](images/python-3.6.png) ![Build Status](images/build-passing.png) ![Dependecies](images/dependencies.png) ![Contributions Welcome](images/contributions-welcome.png) ![MIT license](images/mit-license.png)
+![Python](images/python-3.6.png) ![Build Status](images/build-passing.png) ![Dependecies](images/dependencies.png) ![Contributions Welcome](images/contributions-welcome.png) ![MIT license](images/mit-license.png) <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/manchester9/data-applications">
 
 
 ## **Overview**
