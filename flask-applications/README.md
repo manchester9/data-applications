@@ -2,7 +2,7 @@
 
 <!-- <body style="background-color:powderblue;"> -->
 
-<p align="center" style="color:DodgerBlue; font-family:cambria; font-size:200%;">FLASK APPLICATIONS</p>
+<p align="center" style="color:DodgerBlue; font-family:cambria; font-size:500%;">FLASK APPLICATIONS</p>
 
 <!-- </body> -->
 
